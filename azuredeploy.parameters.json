@@ -1,0 +1,21 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "adminUsername": {
+      "value": "admintestsa"
+    },
+    "adminPassword": {
+      "value": "T3stS4P455w0rd"
+    },
+    "domainName": {
+      "value": "TestSAcorporate.mydomain.com"
+    },
+    "dnsPrefix": {
+      "value": "testdcsa"
+    },
+    "_artifactsLocation": {
+      "value": "https://RicohNZ@dev.azure.com/RicohNZ/RicohRAP/_git/DevTestDCSA/"
+    }
+  }
+}

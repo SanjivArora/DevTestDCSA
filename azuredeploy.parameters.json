@@ -15,7 +15,7 @@
       "value": "testdcsa"
     },
     "_artifactsLocation": {
-      "value": "https://RicohNZ@dev.azure.com/RicohNZ/RicohRAP/_git/DevTestDCSA/"
+      "value": "https://raw.githubusercontent.com/SanjivArora/DevTestDCSA/master/"
     }
   }
 }
